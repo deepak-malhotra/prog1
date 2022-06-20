@@ -1,4 +1,4 @@
-package prog1
+package prog2
 
 import "fmt"
 
